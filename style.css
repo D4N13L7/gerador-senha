@@ -14,3 +14,8 @@ body {
     background-color: var(--cor-de-fundo);
     
 }
+
+.conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+}
