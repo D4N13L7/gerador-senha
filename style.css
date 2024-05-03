@@ -21,3 +21,12 @@ body {
     text-align: center;
     margin-top: 80px;
 }
+
+.titulo.principal {
+    font-family: var(--roboto-mono);
+    font-size: 32px;
+}
+
+.titulo-secundario {
+    font-size: 24px;
+}
